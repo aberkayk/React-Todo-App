@@ -1,0 +1,7 @@
+Todo App
+
+    1. Kullanıcı bir form aracılığıyla todo ekleyebilecek.
+    2. Eklediği todo direkt ekranda görünecek.
+    3. Her todo için sil, güncelle ve durumuna göre yapıldı/yapılmadı butonları olacak.
+    4. Bu butonlar ilgili görevlerini yerine getirecek.
+    5. Eğer yapılacaklar listesi boş ise ekranda "Henüz yapılacak iş yok" şeklinde yazı yazsın.
